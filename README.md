@@ -1,7 +1,7 @@
 ***************************
 
 Görüntü işeleme alanında kullanılan kontrast germe olarak adlandırılan bir görüntü iyileştirme yöntemidir.
-Görüntüdeki piskel aralığını daha geniş bir aralık alarak işlemi gerçekleştirir.
+Görüntüdeki piksel aralığını daha geniş bir aralık alarak işlemi gerçekleştirir.
 Bu işlem, görüntüdeki detayları daha belirgin hale getirir ve görsel kaliteyi artırır.
 Kontrast Germe, görüntülerdeki gri seviyelerin dinamik aralığını arttırmayı amaçlar.
 
